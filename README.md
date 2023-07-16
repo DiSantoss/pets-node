@@ -8,15 +8,19 @@ Node.js: https://nodejs.org
 # Configuração
 Siga os passos abaixo para configurar e executar o projeto em seu ambiente local:
 
-Faça o download dos arquivos do projeto.
-Abra o diretório do projeto no seu editor de código preferido, como o Visual Studio Code.
-Abra o diretório do projeto no terminal de sua preferência.
-Execute o comando npm install para instalar as dependências do projeto, incluindo o dotenv, express, nodemon e mustache.
-Após a instalação das dependências, execute o comando npm run start-dev no terminal para iniciar o servidor local utilizando o nodemon.
-No seu navegador, digite localhost:4000 na barra de navegação.
-Agora você pode visualizar o projeto em funcionamento.
-Estrutura do Projeto
-# O projeto segue a estrutura MVC (Model-View-Controller), com a seguinte organização de diretórios:
+* 1 - Faça o download dos arquivos do projeto.
+* 2 - Abra o diretório do projeto no seu editor de código preferido, como o Visual Studio Code.
+* 3 - Abra o diretório do projeto no terminal de sua preferência.
+* 4 - Execute o comando npm install para instalar as dependências do projeto, incluindo o dotenv, express, nodemon e mustache.
+ 
+  ```npm install dotenv express nodemon mustache```
+* 5 - Após a instalação das dependências, execute o comando npm run start-dev no terminal para iniciar o servidor local utilizando o nodemon.
+
+  ```npm run start-dev```
+* 6 - No seu navegador, digite localhost:4000 na barra de navegação.
+* 7 - Agora você pode visualizar o projeto em funcionamento.
+# Estrutura do Projeto
+ O projeto segue a estrutura MVC (Model-View-Controller), com a seguinte organização de diretórios:
 
 ```
 Copy code
