@@ -4,7 +4,9 @@ Este é um projeto de um site de pets desenvolvido utilizando Node.js, Express, 
 # Pré-requisitos
 Antes de começar, certifique-se de ter instalado o seguinte:
 
-Node.js: https://nodejs.org
+Node.js: 
+
+```https://nodejs.org```
 # Configuração
 Siga os passos abaixo para configurar e executar o projeto em seu ambiente local:
 
