@@ -1,4 +1,4 @@
-# Site de Pets (Gato e Cachorro) - Node.js, Express, TypeScript
+# Site de Pets (Gatos,Cachorros e Peixes) - Node.js, Express, TypeScript
 Este é um projeto de um site de pets desenvolvido utilizando Node.js, Express, TypeScript e segue o padrão MVC (Model-View-Controller).
 
 # Pré-requisitos
@@ -47,3 +47,21 @@ Certifique-se de explorar os diretórios e arquivos para entender melhor a estru
 
 # Contribuição
 Contribuições são bem-vindas! Se você quiser contribuir com melhorias ou correções para este projeto, fique à vontade para enviar um pull request.
+
+# Pagina Inicial
+![image](https://github.com/DiSantoss/pets-node-Backend/assets/99044745/492a4354-3a26-456d-895e-4e606112de6c)
+
+# Pagina Cachorros
+![image](https://github.com/DiSantoss/pets-node-Backend/assets/99044745/76254de0-e20e-45cb-9574-827f5ca4e831)
+
+# Pagina Gatos
+![image](https://github.com/DiSantoss/pets-node-Backend/assets/99044745/88ae1814-a55c-4ea0-ae9d-4577ef967575)
+
+# Peixes 
+![image](https://github.com/DiSantoss/pets-node-Backend/assets/99044745/ce2373f0-1e24-4c11-a426-d7a4fb082562)
+
+# Pesquisa por Letra ou Nome
+![image](https://github.com/DiSantoss/pets-node-Backend/assets/99044745/60c0a8d2-95c5-4be1-8352-95c70ee5344e)
+
+
+
